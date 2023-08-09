@@ -46,6 +46,8 @@ We will use conda to connect the trained model and Udacity simulator.
 * Open simulator, select track and click on 'AUTONOMUS MODE'
 
 ### **Simulation Video**
+
+
 https://github.com/MulahTeni/Self-Driving-Car/assets/109987820/7ad8714d-f0fb-4e0f-8d77-e3ff7a3b6a4d
 
 
