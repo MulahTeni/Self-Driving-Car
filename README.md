@@ -1,5 +1,5 @@
 # **Self-Driving Car Project**
-In this repository, we are going to try to code a simple self-driving car project.
+In this repository, our goal is to make a self-driving car project.
 
 ### **Collecting Data**
 We will use Udacity Self-driving Car Simulator for collecting data and later simulating our self-driving car model.
@@ -46,6 +46,7 @@ We will use conda to connect the trained model and Udacity simulator.
 * Open simulator, select track and click on 'AUTONOMUS MODE'
 
 ### **Simulation Video**
+https://github.com/MulahTeni/Self-Driving-Car/assets/109987820/7ad8714d-f0fb-4e0f-8d77-e3ff7a3b6a4d
 
 
 ### **References**
